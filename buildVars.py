@@ -17,7 +17,7 @@ addon_info = {
 	"addon_summary" : _("Automatically Quit MistWorld when vitality runs out"),
 	# Add-on description: can span multiple lines with """ syntax """
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
-	"addon_description" : _("This add-on allows players of the MistWorld MMO RPG to automatically auto-fish/mine/collect herbs in the background without screen reader spam after vitality has been exausted"),
+	"addon_description" : _("This add-on allows players of the MistWorld MMO RPG to automatically auto-fish/mine/collect herbs in the background without screen reader spam after vitality has been exhausted"),
 	# version
 	"addon_version" : "1.0",
 	# Author(s)
