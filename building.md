@@ -1,6 +1,6 @@
 # MistWorld Auto Profession building instructions.
 
-##Translations
+## Translations
 
 Translation is fully supported - there are only a few messages of note. Gettext translations must be placed into `addon\locale\<lang>/LC_MESSAGES\nvda.po`. 
 
